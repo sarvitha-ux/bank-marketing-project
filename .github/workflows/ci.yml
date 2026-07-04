@@ -21,6 +21,3 @@ jobs:
 
     - name: Run tests
       run: pytest
-
-      Removed dependency install step
-
